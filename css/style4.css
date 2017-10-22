@@ -1,0 +1,29 @@
+html { width: 100%; height: 100%; }
+
+body { margin: 0; width: 100%; height: 100%; padding: 0; box-sizing: border-box; padding-top: 2rem; padding-bottom: 2rem; }
+body header { width: 100%; height: 2rem; background-color: black; position: fixed; top: 0; }
+body header p { display: block; margin: 0; color: white; font-size: 20px; width: 100px; height: 2rem; text-align: center; line-height: 2rem; }
+body header i { display: block; width: 2rem; height: 2rem; margin: -2rem 73%; }
+body header img { width: 70%; height: 70%; margin: 0.4rem auto; }
+body header span { display: block; width: 2rem; height: 2rem; float: right; }
+body section { width: 100%; height: 100%; overflow: scroll; }
+body section ul { margin: 0; padding: 0; }
+body section ul li { width: 100%; height: 2.4rem; list-style: none; border-bottom: 1px solid gainsboro; }
+body footer { width: 100%; height: 2rem; position: fixed; bottom: 0; }
+body footer ul { width: 100%; height: 100%; margin: 0; padding: 0; display: flex; justify-content: space-around; bottom: 0; }
+body footer ul li { width: 2.4rem; height: 2rem; list-style: none; }
+body footer ul li i { color: white; }
+body footer ul li:nth-child(1) span { color: gainsboro; }
+body footer ul li:nth-child(2) span { color: gainsboro; }
+body footer ul li:nth-child(3) span { color: gainsboro; }
+body footer ul li:nth-child(2) span { width: 2.4rem; margin: -0.36rem -0.48rem; }
+body footer ul li:nth-child(2) i { width: 10px; height: 10px; margin: -1.6rem 1.4rem; }
+body footer ul li:nth-child(4) i { width: 10px; height: 10px; }
+body footer ul li:nth-child(4) span { color: #85bf2c; }
+body footer a { text-decoration: none; }
+body footer p { display: block; width: 50%; height: 60%; margin: 0 auto; }
+body footer span { display: block; width: 60%; height: 40%; font-size: 12px; text-align: center; margin: 0 auto; }
+body footer img { width: 100%; height: 100%; }
+body footer i { display: block; width: 16px; height: 16px; font-style: normal; border-radius: 50%; background-color: red; margin: -2rem 1.8rem; font-size: 12px; text-align: center; line-height: 16px; }
+
+/*# sourceMappingURL=style4.css.map */
